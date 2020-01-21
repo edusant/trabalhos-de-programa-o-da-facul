@@ -1,0 +1,38 @@
+.ajuste{
+    margin-top: 120px;
+    box-shadow: 1px 1px 4px black;
+    background-color: white;
+    height: 350px;
+    text-align: center;
+}
+.aju{
+    margin-top: 10px;
+    box-shadow: 1px 1px 4px black;
+    background-color: white;
+    height: 350px;
+    width: 100%;
+}
+
+.corpo{
+    background-color: gray;
+}
+
+.divbusca{
+    height: 800px;
+    border: 1px solid red;
+}
+#num{
+    width: 50px;
+}
+
+.lojaopcao{
+    margin-top: 50px;
+
+}
+.lojaopcao a{
+    color: pink;
+    
+}
+#pagamento{
+    width: 100%;
+}

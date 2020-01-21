@@ -1,0 +1,16 @@
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\bin\Debug\Bancodedados.exe.config
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\bin\Debug\Bancodedados.exe
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\bin\Debug\Bancodedados.pdb
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.csprojAssemblyReference.cache
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.Form1.resources
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.Form2.resources
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.Properties.Resources.resources
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.csproj.GenerateResource.cache
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.csproj.CoreCompileInputs.cache
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.exe
+c:\users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.pdb
+C:\Users\duzau\source\repos\Bancodedados\Bancodedados\bin\Debug\MySql.Data.dll
+C:\Users\duzau\source\repos\Bancodedados\Bancodedados\bin\Debug\Google.Protobuf.dll
+C:\Users\duzau\source\repos\Bancodedados\Bancodedados\bin\Debug\MySql.Data.xml
+C:\Users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.csproj.CopyComplete
+C:\Users\duzau\source\repos\Bancodedados\Bancodedados\obj\Debug\Bancodedados.Form3.resources
